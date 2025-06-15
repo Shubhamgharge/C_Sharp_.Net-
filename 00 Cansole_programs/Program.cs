@@ -4,23 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Division
+namespace Even_Odd
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int iNo1 = 0, iNo2 = 0, iAns = 0;
+            int iNum = 0;
 
-            Console.Write("Enter 1st number : ");
-            iNo1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter a number : ");
+            iNum = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Enter 2nd number : ");
-            iNo2 = Convert.ToInt32(Console.ReadLine());
-
-            iAns = iNo1 / iNo2;
-
-            Console.Write("\n Division of " + iNo1 + " & " + iNo2 + " is " + iAns + ".");
+            if(iNum == 0)
+            {
+                return;
+            }
+            else if(iNum % 2 == 0)
+            {
+                Console.Write(+iNum + " is Enen number .");
+            }
+            else
+            {
+                Console.Write(+iNum + " is Odd number .");
+            }
 
             Console.ReadKey();
         }
