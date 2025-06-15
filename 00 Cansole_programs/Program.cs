@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Addation
+namespace Subtraction
 {
     class Program
     {
@@ -12,17 +12,18 @@ namespace Addation
         {
             int iNo1 = 0, iNo2 = 0, iAns = 0;
 
-            Console.Write("Enter 1st Number : ");
+            Console.Write("Enter 1st number : ");
             iNo1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("\n Enter 2nd number : ");
+            Console.Write("Enter 2nd number : ");
             iNo2 = Convert.ToInt32(Console.ReadLine());
 
-            iAns = iNo1 + iNo2;
+            iAns = iNo1 - iNo2;
 
-            Console.Write("\n Addation of " + iNo1 + " & " + iNo2 + " is " + iAns + ".");
+            Console.Write("\n Subtraction of " + iNo1 + " & " + iNo2 + " is " + iAns + ".");
 
             Console.ReadKey();
+
         }
     }
 }
