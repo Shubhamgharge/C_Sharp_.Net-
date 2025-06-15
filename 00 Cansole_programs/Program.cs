@@ -4,29 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Even_Odd
+namespace Factorial_Of_Number
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int iNum = 0;
+            int iNum = 0, iFact = 1, iTemp = 0, i=0;
 
-            Console.Write("Enter a number : ");
+            Console.Write("Enter a number to calculate factorial : ");
             iNum = Convert.ToInt32(Console.ReadLine());
 
-            if(iNum == 0)
+            iTemp = iNum;
+            
+            while(iTemp > 0)
             {
-                return;
+                iFact = iFact * iTemp;
+                iTemp--;
             }
-            else if(iNum % 2 == 0)
-            {
-                Console.Write(+iNum + " is Enen number .");
-            }
-            else
-            {
-                Console.Write(+iNum + " is Odd number .");
-            }
+
+            Console.Write("Factorial of " + iNum + " is " + iFact + ".");
 
             Console.ReadKey();
         }
