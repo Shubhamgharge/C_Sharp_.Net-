@@ -4,26 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factorial_Of_Number
+namespace Module
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int iNum = 0, iFact = 1, iTemp = 0, i=0;
+            int iNo1 = 0, iNo2 = 0, iAns = 0;
 
-            Console.Write("Enter a number to calculate factorial : ");
-            iNum = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter 1st number : ");
+            iNo1 = Convert.ToInt32(Console.ReadLine());
 
-            iTemp = iNum;
-            
-            while(iTemp > 0)
-            {
-                iFact = iFact * iTemp;
-                iTemp--;
-            }
+            Console.Write("Enter 2nd number : ");
+            iNo2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Factorial of " + iNum + " is " + iFact + ".");
+            iAns = iNo1 % iNo2;
+
+            Console.Write("\n Modules of " + iNo1 + " & " + iNo2 + " is " + iAns + ".");
 
             Console.ReadKey();
         }
