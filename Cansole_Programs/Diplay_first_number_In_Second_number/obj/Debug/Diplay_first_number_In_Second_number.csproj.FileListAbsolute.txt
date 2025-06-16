@@ -1,0 +1,6 @@
+D:\STUDY\C# cansole\Diplay_first_number_In_Second_number\bin\Debug\Diplay_first_number_In_Second_number.exe.config
+D:\STUDY\C# cansole\Diplay_first_number_In_Second_number\bin\Debug\Diplay_first_number_In_Second_number.exe
+D:\STUDY\C# cansole\Diplay_first_number_In_Second_number\bin\Debug\Diplay_first_number_In_Second_number.pdb
+D:\STUDY\C# cansole\Diplay_first_number_In_Second_number\obj\Debug\Diplay_first_number_In_Second_number.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Diplay_first_number_In_Second_number\obj\Debug\Diplay_first_number_In_Second_number.exe
+D:\STUDY\C# cansole\Diplay_first_number_In_Second_number\obj\Debug\Diplay_first_number_In_Second_number.pdb
