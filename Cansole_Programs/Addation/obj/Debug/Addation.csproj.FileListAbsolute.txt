@@ -1,0 +1,7 @@
+D:\STUDY\C# cansole\Addation\bin\Debug\Addation.exe.config
+D:\STUDY\C# cansole\Addation\bin\Debug\Addation.exe
+D:\STUDY\C# cansole\Addation\bin\Debug\Addation.pdb
+D:\STUDY\C# cansole\Addation\obj\Debug\Addation.csproj.AssemblyReference.cache
+D:\STUDY\C# cansole\Addation\obj\Debug\Addation.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Addation\obj\Debug\Addation.exe
+D:\STUDY\C# cansole\Addation\obj\Debug\Addation.pdb
