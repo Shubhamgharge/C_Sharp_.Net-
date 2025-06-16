@@ -1,0 +1,6 @@
+D:\STUDY\C# cansole\Tabels_In_Range\obj\Debug\Tabels_In_Range.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Tabels_In_Range\bin\Debug\Tabels_In_Range.exe.config
+D:\STUDY\C# cansole\Tabels_In_Range\bin\Debug\Tabels_In_Range.exe
+D:\STUDY\C# cansole\Tabels_In_Range\bin\Debug\Tabels_In_Range.pdb
+D:\STUDY\C# cansole\Tabels_In_Range\obj\Debug\Tabels_In_Range.exe
+D:\STUDY\C# cansole\Tabels_In_Range\obj\Debug\Tabels_In_Range.pdb

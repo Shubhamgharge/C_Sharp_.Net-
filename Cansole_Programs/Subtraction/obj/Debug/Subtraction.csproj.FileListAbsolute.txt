@@ -1,0 +1,6 @@
+D:\STUDY\C# cansole\Subtraction\bin\Debug\Subtraction.exe.config
+D:\STUDY\C# cansole\Subtraction\bin\Debug\Subtraction.exe
+D:\STUDY\C# cansole\Subtraction\bin\Debug\Subtraction.pdb
+D:\STUDY\C# cansole\Subtraction\obj\Debug\Subtraction.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Subtraction\obj\Debug\Subtraction.exe
+D:\STUDY\C# cansole\Subtraction\obj\Debug\Subtraction.pdb
