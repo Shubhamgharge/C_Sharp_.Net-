@@ -1,0 +1,6 @@
+D:\STUDY\C# cansole\Numbers_From_1_to_10_Using_For_Loop\bin\Debug\Numbers_From_1_to_10_Using_For_Loop.exe.config
+D:\STUDY\C# cansole\Numbers_From_1_to_10_Using_For_Loop\bin\Debug\Numbers_From_1_to_10_Using_For_Loop.exe
+D:\STUDY\C# cansole\Numbers_From_1_to_10_Using_For_Loop\bin\Debug\Numbers_From_1_to_10_Using_For_Loop.pdb
+D:\STUDY\C# cansole\Numbers_From_1_to_10_Using_For_Loop\obj\Debug\Numbers_From_1_to_10_Using_For_Loop.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Numbers_From_1_to_10_Using_For_Loop\obj\Debug\Numbers_From_1_to_10_Using_For_Loop.exe
+D:\STUDY\C# cansole\Numbers_From_1_to_10_Using_For_Loop\obj\Debug\Numbers_From_1_to_10_Using_For_Loop.pdb

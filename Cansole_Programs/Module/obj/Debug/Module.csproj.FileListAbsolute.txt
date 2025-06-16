@@ -1,0 +1,6 @@
+D:\STUDY\C# cansole\Module\bin\Debug\Module.exe.config
+D:\STUDY\C# cansole\Module\bin\Debug\Module.exe
+D:\STUDY\C# cansole\Module\bin\Debug\Module.pdb
+D:\STUDY\C# cansole\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Module\obj\Debug\Module.exe
+D:\STUDY\C# cansole\Module\obj\Debug\Module.pdb

@@ -1,0 +1,6 @@
+D:\STUDY\C# cansole\Number_Decrement_10_to_1\bin\Debug\Number_Decrement_10_to_1.exe.config
+D:\STUDY\C# cansole\Number_Decrement_10_to_1\bin\Debug\Number_Decrement_10_to_1.exe
+D:\STUDY\C# cansole\Number_Decrement_10_to_1\bin\Debug\Number_Decrement_10_to_1.pdb
+D:\STUDY\C# cansole\Number_Decrement_10_to_1\obj\Debug\Number_Decrement_10_to_1.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Number_Decrement_10_to_1\obj\Debug\Number_Decrement_10_to_1.exe
+D:\STUDY\C# cansole\Number_Decrement_10_to_1\obj\Debug\Number_Decrement_10_to_1.pdb

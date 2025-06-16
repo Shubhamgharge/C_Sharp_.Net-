@@ -1,0 +1,6 @@
+D:\STUDY\C# cansole\Multiplication\bin\Debug\Multiplication.exe.config
+D:\STUDY\C# cansole\Multiplication\bin\Debug\Multiplication.exe
+D:\STUDY\C# cansole\Multiplication\bin\Debug\Multiplication.pdb
+D:\STUDY\C# cansole\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache
+D:\STUDY\C# cansole\Multiplication\obj\Debug\Multiplication.exe
+D:\STUDY\C# cansole\Multiplication\obj\Debug\Multiplication.pdb
