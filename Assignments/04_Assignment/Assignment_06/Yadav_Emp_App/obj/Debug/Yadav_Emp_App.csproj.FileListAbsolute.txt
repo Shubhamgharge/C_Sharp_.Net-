@@ -1,0 +1,10 @@
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\bin\Debug\Yadav_Emp_App.exe.config
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\bin\Debug\Yadav_Emp_App.exe
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\bin\Debug\Yadav_Emp_App.pdb
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\obj\Debug\Yadav_Emp_App.csproj.AssemblyReference.cache
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\obj\Debug\Yadav_Emp_App.frm_Emp_Details.resources
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\obj\Debug\Yadav_Emp_App.Properties.Resources.resources
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\obj\Debug\Yadav_Emp_App.csproj.GenerateResource.cache
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\obj\Debug\Yadav_Emp_App.csproj.CoreCompileInputs.cache
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\obj\Debug\Yadav_Emp_App.exe
+D:\STUDY\C#\C# Desktop Application\Assignment_06\Yadav_Emp_App\obj\Debug\Yadav_Emp_App.pdb
