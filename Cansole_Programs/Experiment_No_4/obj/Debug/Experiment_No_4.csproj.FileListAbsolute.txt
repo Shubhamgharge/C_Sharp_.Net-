@@ -1,0 +1,6 @@
+D:\.net experiment\Experiment_No_4\bin\Debug\Experiment_No_4.exe.config
+D:\.net experiment\Experiment_No_4\bin\Debug\Experiment_No_4.exe
+D:\.net experiment\Experiment_No_4\bin\Debug\Experiment_No_4.pdb
+D:\.net experiment\Experiment_No_4\obj\Debug\Experiment_No_4.csproj.CoreCompileInputs.cache
+D:\.net experiment\Experiment_No_4\obj\Debug\Experiment_No_4.exe
+D:\.net experiment\Experiment_No_4\obj\Debug\Experiment_No_4.pdb
