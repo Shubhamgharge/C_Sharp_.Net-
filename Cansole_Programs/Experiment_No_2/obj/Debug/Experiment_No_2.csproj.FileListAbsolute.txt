@@ -1,0 +1,7 @@
+D:\.net experiment\Experiment_No_2\bin\Debug\Experiment_No_2.exe.config
+D:\.net experiment\Experiment_No_2\bin\Debug\Experiment_No_2.exe
+D:\.net experiment\Experiment_No_2\bin\Debug\Experiment_No_2.pdb
+D:\.net experiment\Experiment_No_2\obj\Debug\Experiment_No_2.csproj.AssemblyReference.cache
+D:\.net experiment\Experiment_No_2\obj\Debug\Experiment_No_2.csproj.CoreCompileInputs.cache
+D:\.net experiment\Experiment_No_2\obj\Debug\Experiment_No_2.exe
+D:\.net experiment\Experiment_No_2\obj\Debug\Experiment_No_2.pdb
