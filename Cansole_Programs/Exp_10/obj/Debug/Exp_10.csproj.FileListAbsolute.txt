@@ -1,0 +1,6 @@
+C:\Shubham\Exp_10\bin\Debug\Exp_10.exe.config
+C:\Shubham\Exp_10\bin\Debug\Exp_10.exe
+C:\Shubham\Exp_10\bin\Debug\Exp_10.pdb
+C:\Shubham\Exp_10\obj\Debug\Exp_10.csproj.CoreCompileInputs.cache
+C:\Shubham\Exp_10\obj\Debug\Exp_10.exe
+C:\Shubham\Exp_10\obj\Debug\Exp_10.pdb
